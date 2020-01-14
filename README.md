@@ -6,11 +6,8 @@ Utilizes:
     -some of the excellent methods proposed in Coursera Self-Driving Cars specialization.
     -some of the standard source code from CARLA demo.
     -uses only classic algorithms without AI technics.
-"""
 
-"""
 Still required minimum (TODO):
     --Add complete ego state estimation model.
     --Add obstacle grid.
     --Optimizations required.
-"""
