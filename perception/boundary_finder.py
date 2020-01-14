@@ -3,7 +3,7 @@
 # This work is licensed under the terms of the MIT license.
 # For a copy, see <https://opensource.org/licenses/MIT>.
 #
-# Modified work: Konstantin Ivanchenko
+# Author: Konstantin Ivanchenko
 # Date: December 25, 2019
 
 from perception import lane_finder as lf
